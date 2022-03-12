@@ -1,2 +1,0 @@
-# mythingy.github.io
-website
